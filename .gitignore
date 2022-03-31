@@ -3,6 +3,6 @@ nvram/
 roms/
 sta/
 ui/
-cfg/
+cfg/*
 !cfg/default.cfg
 ini/ui.ini
