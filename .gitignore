@@ -3,3 +3,5 @@ nvram/
 roms/
 sta/
 ui/
+cfg/
+ini/ui.ini
