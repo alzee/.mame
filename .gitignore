@@ -4,4 +4,5 @@ roms/
 sta/
 ui/
 cfg/
+!cfg/default.cfg
 ini/ui.ini
