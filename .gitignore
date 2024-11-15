@@ -4,6 +4,5 @@ roms/
 sta/
 snap/
 ui/
-cfg/*
 !cfg/default.cfg
 ini/ui.ini
