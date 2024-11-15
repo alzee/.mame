@@ -2,6 +2,7 @@ history/
 nvram/
 roms/
 sta/
+snap/
 ui/
 cfg/*
 !cfg/default.cfg
